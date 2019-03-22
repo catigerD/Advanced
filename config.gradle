@@ -1,3 +1,5 @@
 ext {
     componentAlone = false
+    hotfixApp = true
+    networkApp = false
 }

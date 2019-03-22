@@ -1,1 +1,1 @@
-include ':app', ':network', ':componentmoduleapp', ':componentlibrary', ':componentapp', ':widget', ':test', ':proxy'
+include ':app', ':network', ':componentmoduleapp', ':componentlibrary', ':componentapp', ':widget', ':test', ':proxy', ':hotfix', ':tools'

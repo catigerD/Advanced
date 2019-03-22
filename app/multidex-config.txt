@@ -1,0 +1,3 @@
+com.example.study.hotfixapp.HotfixApplication
+com.example.study.hotfixapp.SecondActivity
+com.example.study.hotfixapp.HotfixMainActivity
